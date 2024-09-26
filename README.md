@@ -1,0 +1,1 @@
+This project aims to assess the risks associated with different aircraft to guide my company's entry into the aviation industry. Using aviation accident data from the NTSB , I analyze accident trends, identify potential safety concerns and highlight which aircraft types are the safest or most risky for commercial and private use
